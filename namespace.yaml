@@ -4,3 +4,4 @@ metadata:
   name: simpson
   labels:
     house: simpsons
+    app: simpsons
