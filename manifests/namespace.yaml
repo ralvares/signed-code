@@ -2,6 +2,3 @@ kind: Project
 apiVersion: project.openshift.io/v1
 metadata:
   name: simpson
-  labels:
-    house: simpsons
-    app: simpsons
